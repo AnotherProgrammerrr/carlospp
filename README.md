@@ -2,7 +2,7 @@
 =============
 
 versão em C++ do carlos usando SFML 
-![Alt text]([https://assets.digitalocean.com/articles/alligator/boo.svg](https://github.com/AnotherProgrammerrr/carlospp/blob/main/carlos.png?raw=true) "Carlos")
+![Alt text]([https://github.com/AnotherProgrammerrr/carlospp/blob/main/carlos.png?raw=true]() "Carlos")
 
 para compilar certifique-se de ter as pastas include e lib do SFML na pasta atual
 
