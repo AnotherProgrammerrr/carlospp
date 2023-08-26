@@ -6,6 +6,8 @@
   versão em C++ do carlos usando SFML 
   
   para compilar certifique-se de ter as pastas include e lib do SFML na pasta atual
+  <br>
+  <br>
 </div>
 
 ```
