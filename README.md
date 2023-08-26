@@ -1,1 +1,9 @@
 # carlospp
+
+versão em C++ do carlos usando SFML
+
+para compilar certifique-se de ter as pastas include e lib do SFML na pasta atual
+
+```
+g++ main.cpp -o main.exe -Iinclude -DSFML_STATIC -static -Llib -lsfml-graphics-s -lsfml-window-s -lsfml-system-s -lopengl32 -lwinmm -lgdi32 -mwindows
+```
